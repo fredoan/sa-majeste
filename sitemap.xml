@@ -1,33 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://www.atchetondjidjrado2ahidazanazansien.com/</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://www.atchetondjidjrado2ahidazanazansien.com/heritage.html</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.atchetondjidjrado2ahidazanazansien.com/services.html</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://www.atchetondjidjrado2ahidazanazansien.com/galerie.html</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.atchetondjidjrado2ahidazanazansien.com/contact.html</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ACCUEIL -->
+  <url>
+    <loc>https://www.atchetondjidjrado2ahidazanazansien.com/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.atchetondjidjrado2ahidazanazansien.com/"/>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</image:loc><image:title>Portrait officiel HOUNNONGAN DJRADO II</image:title><image:caption>Portrait officiel de Sa Majesté HOUNNONGAN DJRADO II</image:caption></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phb.jpg</image:loc><image:title>HOUNNONGAN ATCHÈTONDJI DJRADO II</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phc.jpg</image:loc><image:title>DJRADO II</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phd.jpg</image:loc><image:title>AHIDAZAN AZANSIEN</image:title></image:image>
+  </url>
+
+  <!-- HÉRITAGE -->
+  <url>
+    <loc>https://www.atchetondjidjrado2ahidazanazansien.com/heritage.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pa1.jpg</image:loc><image:title>Feu HOUNNONGAN DJRADO AHIDAZAN AZANSIEN</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pa2.jpg</image:loc><image:title>Père de HOUNNONGAN DJRADO II</image:title></image:image>
+  </url>
+
+  <!-- SERVICES -->
+  <url>
+    <loc>https://www.atchetondjidjrado2ahidazanazansien.com/services.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</image:loc><image:title>Services spirituels</image:title></image:image>
+  </url>
+
+  <!-- GALERIE -->
+  <url>
+    <loc>https://www.atchetondjidjrado2ahidazanazansien.com/galerie.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</image:loc><image:title>HOUNNONGAN DJRADO II</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phb.jpg</image:loc><image:title>HOUNNONGAN ATCHÈTONDJI</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phc.jpg</image:loc><image:title>DJRADO II</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phd.jpg</image:loc><image:title>AHIDAZAN AZANSIEN</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phe.jpg</image:loc><image:title>Cérémonie Vodun</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phf.jpg</image:loc><image:title>Rituel Vodun</image:title></image:image>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/phg.jpg</image:loc><image:title>HOUNNONGAN DJRADO II</image:title></image:image>
+    <video:video><video:thumbnail_loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</video:thumbnail_loc><video:title>Cérémonie Vodun — HOUNNONGAN DJRADO II</video:title><video:description>Cérémonie traditionnelle Vodun</video:description><video:content_loc>https://www.atchetondjidjrado2ahidazanazansien.com/vi1.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://www.atchetondjidjrado2ahidazanazansien.com/phb.jpg</video:thumbnail_loc><video:title>Rituel ancestral</video:title><video:description>Rituel Vodun ancestral</video:description><video:content_loc>https://www.atchetondjidjrado2ahidazanazansien.com/vi2.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://www.atchetondjidjrado2ahidazanazansien.com/phb.jpg</video:thumbnail_loc><video:title>Cérémonie sacrée</video:title><video:description>Cérémonie sacrée Vodun</video:description><video:content_loc>https://www.atchetondjidjrado2ahidazanazansien.com/vi4.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</video:thumbnail_loc><video:title>Moment de tradition</video:title><video:description>Moment de tradition Vodun</video:description><video:content_loc>https://www.atchetondjidjrado2ahidazanazansien.com/vi5.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://www.atchetondjidjrado2ahidazanazansien.com/phb.jpg</video:thumbnail_loc><video:title>Rituel Vodun</video:title><video:description>Rituel Vodun filmé</video:description><video:content_loc>https://www.atchetondjidjrado2ahidazanazansien.com/vi6.mp4</video:content_loc></video:video>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://www.atchetondjidjrado2ahidazanazansien.com/contact.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.atchetondjidjrado2ahidazanazansien.com/pha.jpg</image:loc><image:title>Contact HOUNNONGAN DJRADO II</image:title></image:image>
+  </url>
+
 </urlset>
