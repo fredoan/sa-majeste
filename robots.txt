@@ -1,3 +1,24 @@
+# robots.txt — https://www.atchetondjidjrado2ahidazanazansien.com/
+
 User-agent: *
 Allow: /
+
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
 Sitemap: https://www.atchetondjidjrado2ahidazanazansien.com/sitemap.xml
+
+Host: https://www.atchetondjidjrado2ahidazanazansien.com
